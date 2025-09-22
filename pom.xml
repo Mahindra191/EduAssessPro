@@ -8,7 +8,6 @@
   <artifactId>EduAssessPro</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-
   <name>EduAssessPro Maven Webapp</name>
   <url>http://www.example.com</url>
 
